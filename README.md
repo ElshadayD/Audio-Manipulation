@@ -4,7 +4,7 @@ This project aims to provide a solution for dubbing English videos into the Amha
 
 ## Introduction
 
-Dubbing videos into different languages is a complex and time-consuming process. The Amharic Dubbing System streamlines this process by automating the transcription, translation, and generation of Amharic audio for English videos. By leveraging speech recognition, machine translation, and text-to-speech technologies, this system enables the creation of Amharic-dubbed versions of videos, expanding their accessibility and reach.
+Dubbing videos into different languages is a complex and time-consuming process. The above code performs the transcription, translation, and generation of Amharic audio for English videos. By using speech recognition, machine translation, and text-to-speech technologies, this system enables the creation of Amharic-dubbed versions of videos.
 
 ## Features
 
