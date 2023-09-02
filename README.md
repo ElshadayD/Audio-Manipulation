@@ -1,6 +1,6 @@
 # Audio_STT_and_TTS
 
-This project aims to provide a solution for dubbing English videos into the Amharic language. The system takes an English video, transcribes the audio, saves the transcriptions for later use, translates the transcriptions from English to Amharic, and finally generates an Amharic audio using text-to-speech technology. This allows for the creation of Amharic-dubbed versions of originally English videos.
+This project aims to provide a solution for dubbing English videos into the Amharic language. The system takes an English video, transcribes the audio, saves the transcriptions for later use, translates the transcriptions from English to Amharic, and finally generates an Amharic audio using text-to-speech technology. This allows for the creation of Amharic-dubbed versions of videos.
 
 ## Introduction
 
