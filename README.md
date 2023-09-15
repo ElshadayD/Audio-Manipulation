@@ -8,7 +8,6 @@ The above code performs the transcription, translation, and generation of Amhari
 
 ## Features
 
-- Video transcription from English to text
+- Video transcription
 - Translation of transcriptions from English to Amharic
 - Generation of Amharic audio using text-to-speech technology
-- User-friendly interface for easy video processing and dubbing
